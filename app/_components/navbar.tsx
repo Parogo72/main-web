@@ -19,11 +19,7 @@ import { usePathname } from "next/navigation";
 
 import { siteConfig } from "@/config/site";
 import { ThemeSwitch } from "@/app/_components/theme-switch";
-import {
-  GithubIcon,
-  LinkedinIcon,
-  Logo,
-} from "@/app/_components/icons";
+import { GithubIcon, LinkedinIcon, Logo } from "@/app/_components/icons";
 
 export const Navbar = () => {
   const pathname = usePathname();
