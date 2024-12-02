@@ -74,10 +74,10 @@ export const CustomCard = (project: any) => {
         <Divider />
         <CardFooter>
           <Link isExternal showAnchorIcon href={project.link}>
-            Visit page.
+            Page
           </Link>
           <Link isExternal showAnchorIcon href={project.github}>
-            Visit source code on GitHub.
+            Source Code
           </Link>
         </CardFooter>
       </Card>

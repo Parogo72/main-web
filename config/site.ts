@@ -77,13 +77,13 @@ export const siteConfig = {
       description: "Personal Website",
       image: "",
       link: "https://parogo72.vercel.app/",
-      github: "",
+      github: "https://github.com/Parogo72/main-web",
       fullDescription: `This is a personal website built using Next.js, Tailwind CSS, and NextUI, designed to showcase projects, skills, and professional experience in a visually appealing and highly performant manner. This project demonstrates proficiency in modern web development frameworks and tools, combining the power of Next.js for server-side rendering and dynamic routing, Tailwind CSS for rapid and responsive styling, and NextUI for polished and interactive components. The portfolio's design emphasizes usability and responsiveness, ensuring an engaging experience across devices while highlighting my expertise in creating functional and aesthetic web applications.`,
     },
   ],
   links: {
     github: "https://github.com/Parogo72",
     linkedin: "https://www.linkedin.com/in/pablo-rodr-gonz/",
-    githubWebLink: "",
+    githubWebLink: "https://github.com/Parogo72/main-web",
   },
 };
